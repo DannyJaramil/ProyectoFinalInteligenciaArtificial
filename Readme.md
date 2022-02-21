@@ -1,15 +1,15 @@
 
 # Aprendizaje Supervisado: Predicción de los meses con mayor índice de incidentes de tránsito cometidos en Ecuador para el 2022.
 
-## Authores 🚀
+## Autores 🛠️
 
 *Danny Michael Jaramillo Jumbo     
-Instagram: @dmjj_code
-Twitter: @DannyJa56478156
+**Instagram: @dmjj_code
+**Twitter: @DannyJa56478156
 
 *Edmundo José Pezantes Urrego
-Instagram: @joshe6_7
-Twitter:
+**Instagram: @joshe6_7
+**Twitter:
 
 
 
