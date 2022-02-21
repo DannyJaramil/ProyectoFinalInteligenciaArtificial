@@ -3,13 +3,13 @@
 
 ## Autores 🛠️
 
-*Danny Michael Jaramillo Jumbo     
-**Instagram: @dmjj_code
-**Twitter: @DannyJa56478156
+_*Danny Michael Jaramillo Jumbo_     
+_**Instagram: @dmjj_code🖇️_
+_**Twitter: @DannyJa56478156🖇️_
 
-*Edmundo José Pezantes Urrego
-**Instagram: @joshe6_7
-**Twitter:
+_*Edmundo José Pezantes Urrego🖇️_
+_**Instagram: @joshe6_7🖇️_
+
 
 
 
