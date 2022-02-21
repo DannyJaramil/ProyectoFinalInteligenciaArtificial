@@ -27,9 +27,9 @@ https://pdae.datasketch.co/dataset/estadisticas-de-emergencias-servicio-integrad
 #### Backend 🔧
 
 
-[Puedo encontrarlo en 🖇️ : ](https://apiia.herokuapp.com/docs#/default/get_home_price_api_predict_post)
+[Visualizar🖇️  ](https://apiia.herokuapp.com/docs#/default/get_home_price_api_predict_post)
 #### Frontend 📖
 
-[Puedo encontrarlo en 🖇️: ](https://interfas.herokuapp.com)
+[Visualizar 🖇️ ](https://interfas.herokuapp.com)
 
 
